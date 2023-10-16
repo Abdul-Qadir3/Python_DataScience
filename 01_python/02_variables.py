@@ -16,4 +16,4 @@ print(a)
 #donot use function that are built in python
 #donot use numbers at the beggining
 #short name
-#discriptve
+#discriptve/meaningful
