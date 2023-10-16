@@ -1,10 +1,10 @@
-print("Abdul Qadir")
-print('Abdul Qadir')
+print("Abdul Qadir")#string writing format 1
+print('Abdul Qadir')#string writing format 2
 print('''Abdul 
-      Qadir''')
+      Qadir''')#string writing format 3 fro multiple line of strings
 
 #Arithmetic Operators:
-print(2+4) #added using print operator
+print(2+4) #added using print operator(+)
 
 print(2-4) #subtracted using print operator
 
@@ -18,6 +18,7 @@ print(2%4) #modulus using print operator
 
 print(2**4) #exponentiation using print operator    
 
+#PEMDAS rule
 #Lists are ordered collections of items.
 #They are mutable
 a = [1,2,3,4] #list of integer
@@ -42,7 +43,7 @@ print(a+b) #list concatenate when used addition operator
 
 # Comparison Operators:Always return true and false
 print(a==b)#equal
-print(a===b)
+print(a == b)
 print(a!=b)
 print(4>2)
 print(4<2)
@@ -65,6 +66,7 @@ a = 10
 a -= 20 #subtracting the value of the variable a by 20 and then assigning the result back to the variable a
 
 print(a)
+
 
 a = 10
 

@@ -15,3 +15,18 @@ Where softwares are stored
 <img url="https://images.datacamp.com/image/upload/v1681474410/Conda_Cheat_Sheet_1_5f8aa7d2f9.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+# Variable
+### When to use of variables
+> when to perform calculations
+> to import the data and name the data
+> used to store the data
+
+### rules
+- always use small letters
+- donot use spaces insted use underscore 
+- donot use special characters
+- donot use function that are built in python
+- donot use numbers at the beggining
+- short name
+- discriptve/meaningful
